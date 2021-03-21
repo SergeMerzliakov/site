@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bioinformatics Research Network
 
 You can use the [editor on GitHub](https://github.com/millerh1/brn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
